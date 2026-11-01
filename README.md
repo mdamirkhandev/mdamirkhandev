@@ -14,9 +14,9 @@
 
 <p>
   <a href="mailto:mdamirkhan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="YOUR_UPWORK_URL"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
-  <a href="https://profiles.wordpress.org/YOUR_WP_USERNAME/"><img src="https://img.shields.io/badge/WordPress.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress.org" /></a>
+  <a href="https://www.linkedin.com/in/amir-khan-b9822a359/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.upwork.com/freelancers/~0181750953d71e0785"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
+  <a href="https://profiles.wordpress.org/amirkhandev/"><img src="https://img.shields.io/badge/WordPress.org-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress.org" /></a>
 </p>
 
 </div>
